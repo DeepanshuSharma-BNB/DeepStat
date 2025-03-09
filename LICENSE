@@ -1,3 +1,46 @@
-git add LICENSE
-git commit -m "Add custom non-commercial open-source license"
-git push origin main
+DeepStat: A Wireless Potentiostat Framework for Electrochemical Biosensing
+Copyright (C) 2023 [Your Name or Organization]
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the DeepStat Non-Commercial Open Source License as published by
+the Free Software Foundation, version 1.0 of the License.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+DeepStat Non-Commercial Open Source License for more details.
+
+You should have received a copy of the DeepStat Non-Commercial Open Source License
+along with this program. If not, see <https://yourwebsite.com/license>.
+
+-------------------------------------------------------------------------------
+
+DeepStat Non-Commercial Open Source License
+
+1. **Definitions**:
+   - "Software" refers to the DeepStat framework, including all source code, documentation, and associated files.
+   - "Commercial Use" refers to any use of the Software for monetary gain, including but not limited to selling, licensing, or incorporating the Software into a commercial product.
+
+2. **Permissions**:
+   - You are free to:
+     - Use, copy, and modify the Software for non-commercial purposes.
+     - Distribute the Software or derivative works, provided that:
+       - The original copyright notice and this license are included.
+       - The Software is not used for Commercial Use.
+       - The Software is not patented or claimed as intellectual property.
+
+3. **Restrictions**:
+   - You may not:
+     - Use the Software for Commercial Use without explicit written permission from the copyright holder.
+     - Patent or claim intellectual property rights over the Software or any derivative works.
+     - Remove or alter the copyright notice or license terms from the Software.
+
+4. **Disclaimer**:
+   - The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+5. **Termination**:
+   - Any violation of this license will result in the immediate termination of your rights to use, copy, or distribute the Software.
+
+-------------------------------------------------------------------------------
+
+For inquiries about commercial use or licensing, please contact [Your Email Address].
