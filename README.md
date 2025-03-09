@@ -32,5 +32,4 @@ This project is licensed under the **DeepStat Non-Commercial Open Source License
 
 For the full license terms, see the [LICENSE](LICENSE) file.
 
-## Cite
-© Sharma, Deepanshu (2025), Germany.
+## © Sharma, Deepanshu (2025), Germany.
