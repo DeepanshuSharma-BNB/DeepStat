@@ -27,5 +27,10 @@ The circuit schematic for DeepStat is shown below. It includes the following key
 - **Power Supply**: LTC3525ESC6-5 for voltage regulation
 - **Wireless Module**: ESP8266 or similar for wireless communication
 
+## License
+This project is licensed under the **DeepStat Non-Commercial Open Source License**. This license allows you to use, modify, and distribute the software for non-commercial purposes only. Commercial use is prohibited without explicit permission from the copyright holder. Additionally, you may not patent or claim intellectual property rights over the software or any derivative works.
+
+For the full license terms, see the [LICENSE](LICENSE) file.
+
 ## Cite
 © Sharma, Deepanshu (2025), Germany.
